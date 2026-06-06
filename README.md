@@ -1,40 +1,41 @@
 ### Hi there 👋
-#  PhD Student Yuchao's Github
-* [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchaosu)](https://github.com/yuchaosu/github-readme-stats)
-* [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchaosu&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-<!---
-* 🙋🏻‍♂️ Hi, I'm "**Jongsang Yoo**"
-* 👨🏻‍🎓 Now, I'm studying **Computer Science & Engineering** (M.S. student) in Korea Univ.
-* 👨🏻‍🎓 I majored **Eelctronic Engineering** (B.S. degree) in Myoungji Univ.
-* 🔬 I'm currently focused on **"microprocessor architecture (RISC-V), custom vector ISAs for LLM acceleration, and SoC architecture"**.
-* 🔬 I have also researched **"NTT-based hardware accelerators (targeting ZKP, FHE, PQC, etc.) using systolic array"**.
+# PhD Student Yuchao's Github
 
+<!-- These cards are generated daily by a GitHub Action (vn7n24fzkq/github-profile-summary-cards)
+     and served as static files from this repo, so they don't depend on any third-party server. -->
+
+* ![Repos per language](https://raw.githubusercontent.com/yuchaosu/yuchaosu/main/profile-summary-card-output/default/1-repos-per-language.svg)
+* ![Most committed language](https://raw.githubusercontent.com/yuchaosu/yuchaosu/main/profile-summary-card-output/default/2-most-commit-language.svg)
+* ![Stats](https://raw.githubusercontent.com/yuchaosu/yuchaosu/main/profile-summary-card-output/default/3-stats.svg)
+* ![Productive time](https://raw.githubusercontent.com/yuchaosu/yuchaosu/main/profile-summary-card-output/default/4-productive-time.svg)
 
 ---
-* 📨 **jamin0513@korea.ac.kr**
-* 📄 [**CV**](https://www.notion.so/CV-de49689bad7f45f1b45669358957d5c6?pvs=4)
-* 📄 [**Portfolio**](https://right-blarney-ad5.notion.site/ABOUT-JONG-SANG-1bccf54efce348f1a788425029a6b408)
+
+I am **yuchaosu**, pursuing a Computer Science PhD at **NC State University**, Raleigh, USA.
+
+I hold an Electrical & Computer Engineering Master's degree from **Northeastern University**, Boston, USA, and a Computer Science & Technology Bachelor's degree from **Southeast University**, Nanjing, China.
+
+* 🔭 I'm currently working on **HPC support for quantum simulation**
+* 🔬 I'm currently focused on **quantum simulation and sparse linear algebra acceleration**
+* 🌱 I'm currently learning **quantum computing and quantum machine learning**
+* 👯 I'm looking to collaborate on **quantum-inspired optimization and quantum machine learning**
+* 🧠 I have also researched **computer architecture, e.g. domain-specific accelerators**
+* 😄 Pronouns: He/Him
+
 ---
+
+📫 **How to reach me**
+
+* 📨 **ysu34@ncsu.edu**
+* 🌐 [**yuchaosu.com**](https://yuchaosu.com)
+* 📄 [**CV**](https://yuchaosu.com/uploads/resume.pdf)
+
+---
+
 📚 **Skill Stack**
-* C / Python
-* STM32 / IAR
-* FPGA : Xilinx - Verilog / Vivado, Vitis
-* FPGA : Altera - Verilog / Quartus II
-* Atmega / Atmel Studio
-* Inventor, Fusion360
-* Kicad
-* PSIM
-<!--
-**yuchaosu/yuchaosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-1B1F24?style=for-the-badge&logo=v&logoColor=white)
