@@ -1,13 +1,11 @@
 ### Hi there 👋
 # PhD Student Yuchao's Github
 
-<!-- These cards are generated daily by a GitHub Action (vn7n24fzkq/github-profile-summary-cards)
-     and served as static files from this repo, so they don't depend on any third-party server. -->
+<!-- These cards are generated daily by a GitHub Action (soulteary/github-readme-stats-action)
+     and committed into this repo as static SVGs, so they don't depend on any third-party server. -->
 
-* ![Repos per language](https://raw.githubusercontent.com/yuchaosu/yuchaosu/main/profile-summary-card-output/default/1-repos-per-language.svg)
-* ![Most committed language](https://raw.githubusercontent.com/yuchaosu/yuchaosu/main/profile-summary-card-output/default/2-most-commit-language.svg)
-* ![Stats](https://raw.githubusercontent.com/yuchaosu/yuchaosu/main/profile-summary-card-output/default/3-stats.svg)
-* ![Productive time](https://raw.githubusercontent.com/yuchaosu/yuchaosu/main/profile-summary-card-output/default/4-productive-time.svg)
+* ![My GitHub stats](./profile/stats.svg)
+* ![Top Langs](./profile/top-langs.svg)
 
 ---
 
