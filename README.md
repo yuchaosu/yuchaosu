@@ -9,9 +9,9 @@
 
 ---
 
-I am **yuchaosu**, pursuing a Computer Science PhD at **NC State University**, Raleigh, USA.
+I am **Yuchao Su**, pursuing a Computer Science PhD at [**NC State University**](https://www.ncsu.edu/), Raleigh, USA.
 
-I hold an Electrical & Computer Engineering Master's degree from **Northeastern University**, Boston, USA, and a Computer Science & Technology Bachelor's degree from **Southeast University**, Nanjing, China.
+I hold an Electrical & Computer Engineering Master's degree from [**Northeastern University**](https://www.northeastern.edu/), Boston, USA, and a Computer Science & Technology Bachelor's degree from [**Southeast University**](https://www.seu.edu.cn/), Nanjing, China.
 
 * 🔭 I'm currently working on **HPC support for quantum simulation**
 * 🔬 I'm currently focused on **quantum simulation and sparse linear algebra acceleration**
